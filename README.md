@@ -58,7 +58,8 @@
 ### 💌 Contact
 - 📧 **Email:** [shivam.work7488@gmail.com](mailto:shivam.work7488@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/shivam-work74](https://in.linkedin.com/in/shivam-work74)  
-- 🌐 **Portfolio (GitHub Pages):** https://shivam-work74.github.io  
+- 🌐 **Portfolio (GitHub Pages):** https://shivam-work74.github.io
+- 🌐 **Portfolio (Vercel):** https://shivam-work-profile.vercel.app
 
 ---
 
